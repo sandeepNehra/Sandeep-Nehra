@@ -1,3 +1,6 @@
+![Sandeep Nehra Banner](https://user-images.githubusercontent.com/10654508/195062796-928fcc2a-1351-4fab-abe7-d3dc3a58077f.png)
+
+
 <h1 align="center">Hi 👋, I'm Sandeep Nehra</h1>
 <h3 align="center">A passionate Quality Assurance Automation Engineer from India</h3>
 
