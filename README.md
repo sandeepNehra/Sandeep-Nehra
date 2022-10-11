@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Cucumber**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sandeepNehra](https://github.com/sandeepNehra)
+- 👨‍💻 All of my projects are available at [https://github.com/sandeepNehra](https://github.com/sandeepNehra?tab=repositories)
 
 - 💬 Ask me about **Java, Selenium, Python, RestAssured, Php**
 
